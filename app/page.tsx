@@ -116,9 +116,12 @@ export default function Home() {
       <h2>Kavin <span>&amp;</span> Sivakami</h2>
       <p className="footer-date">21 — 22 NOVEMBER 2026 <i>·</i> MADURAI</p>
       <Ornament />
-      <p className="compliments">WITH BEST COMPLIMENTS</p><p className="dora">Dora</p>
-      <p className="footer-mantra">நன்றி · வணக்கம்</p>
+      <p className="compliments">WITH BEST COMPLIMENTS</p>
+      <div className="dora-row">
+      <p className="dora">Dora</p>
       <Heart size={14} className="footer-heart" />
+      <p className="footer-mantra">நன்றி · வணக்கம்</p>
+    </div>
     </footer>
   </main>;
 }

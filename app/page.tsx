@@ -54,7 +54,7 @@ export default function Home() {
       <div className="garland garland-right">✿　✿　✿　✿　✿</div>
       <div className="hero-frame">
         <div className="ganesha" aria-label="Ganesha symbol">ॐ</div>
-        <p className="tamil-blessing">ஸ்ரீ கணேசாய நமःை</p>
+        <p className="tamil-blessing">ஸ்ரீ கணேசாய நம !</p>
         <Ornament />
         <p className="hero-kicker">திருமண அழைப்பிதழ்</p>
         <p className="english-kicker">W E D D I N G&nbsp; I N V I T A T I O N</p>
